@@ -84,9 +84,9 @@ pip install -r requirements.txt
 
 ```
 📦 Churn-Prediction-for-Beta-Bank/
-├── projectgithub_update2.py  # анализ и обучение модели
-├── requirements.txt         # зависимости
-└── README.md                # описание проекта
+├── projectgithub_update2.ipynb  # анализ и обучение модели
+├── requirements.txt             # зависимости
+└── README.md                    # описание проекта
 ```
 
 ## ✅ TODO
